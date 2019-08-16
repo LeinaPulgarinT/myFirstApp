@@ -1,0 +1,17 @@
+ body{
+    background-color: green;
+}
+
+.contenedor{
+    width: 200px;
+    height: 100px;
+    background: #000;
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+align-content: center;
+}
+
+.contenedor > p{
+    color: #fff;
+}
